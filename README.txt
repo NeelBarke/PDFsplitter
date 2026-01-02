@@ -1,0 +1,1 @@
+A simple PDF splitter without any annoying ads and limits that runs locally.PyPDF2 library required. Please edit the python file variables based upon your preferences for number of pages per split file and source pdf location before running it.
